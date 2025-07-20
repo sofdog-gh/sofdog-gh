@@ -4,17 +4,16 @@ I am Sof (aka sofdog) - welcome!
 
 `AI/ML Engineer x Computational Linguist`
 
-Working at RAKAM AI (Paris, 🇫🇷), where we create custom AI solutions for businesses in various domains.
-
-Before:
+- Working at RAKAM AI (Paris, 🇫🇷), where we create AI solutions for business clients in various domains.
 - MSc in Computational Linguistics (Stuttgart, 🇩🇪) + BMW
-- Also 🇮🇹, 🇬🇧
+- 🇮🇹, 🇬🇧
 
-Interested in everything NLP - these days I am working on:
-- LLMs: integration, deployment, evaluation
-- Agentic Systems
+Interested in everything NLP - mainly:
+- LLM integration and evaluation
+- Agents
 - Speech: conversational AI, ASR, TTS
 - Explainable AI
+- AI safety
 - Graphs! ❄️
 
 Feel free to have a look around and get in touch if you'd like :)
